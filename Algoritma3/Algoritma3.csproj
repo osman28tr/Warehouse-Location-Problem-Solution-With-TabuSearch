@@ -49,9 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Folder Include="bin\Debug\" />
+    <Content Include="bin\Debug\wl_16_1.txt" />
+    <Content Include="bin\Debug\wl_200_2.txt" />
+    <Content Include="bin\Debug\wl_500_3.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
