@@ -13,9 +13,9 @@ problemin amacı, müşterilere hizmet vermek için hangi depoların en uygun ma
 belirlemektir. Ancak burada her depo farklı maliyetlere ve depolama kapasitelerine sahiptir.</p>
 <img src="Algoritma3/Images/warehouseproblem.PNG">
 
-<b>Kullanılan Dil:</b> C#
+<h3>1. Geliştirme Ortamı ve Kullanılan Dil:</h3> Visual Studio(Console Application(.Net)) - C#
 
 <b>Not: </b>Kullanılan girdi dosyalarına "Datas" klasörü altından erişebilirsiniz.(wl_16_1.txt,wl_200_2.txt,wl_500_3.txt)
 
-<h3>Kurulum</h3>
+<h3>2. Kurulum</h3>
 Uygulamayı indirdikten sonra start ikonuna basarak çalıştırabilirsiniz.
