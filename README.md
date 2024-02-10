@@ -15,7 +15,7 @@ belirlemektir. Ancak burada her depo farklı maliyetlere ve depolama kapasiteler
 
 <b>Kullanılan Dil:</b> C#
 
-<b>Not: </b>Kullanılan girdi dosyalarına Datas klasörü altından erişebilirsiniz.(wl_16_1.txt,wl_200_2.txt,wl_500_3.txt)
+<b>Not: </b>Kullanılan girdi dosyalarına "Datas" klasörü altından erişebilirsiniz.(wl_16_1.txt,wl_200_2.txt,wl_500_3.txt)
 
 <h3>Kurulum</h3>
 Uygulamayı indirdikten sonra start ikonuna basarak çalıştırabilirsiniz.
