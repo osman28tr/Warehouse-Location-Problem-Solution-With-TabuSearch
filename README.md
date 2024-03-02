@@ -1,4 +1,4 @@
-<h1>Warehouse Location Problem(Depo Yerleşim Problemi)</h1>
+<h1>Algoritma Analizi ve Tasarımı Dersi - Warehouse Location Problem(Depo Yerleşim Problemi)</h1>
 
 <p align="justify">Bu projede Warehouse Location Problem(Depo Yerleşim Problemi)'nin Tabu Arama algoritma ile çözümü ele alınmıştır.
 Tabu arama algoritması, verilen tabu boyutunda (genetik algoritmadaki popülasyon gibi düşünebilirsiniz.)
